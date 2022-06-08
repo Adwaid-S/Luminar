@@ -1,1 +1,3 @@
-Sample git file
+Sample git file 
+push done
+next pull method
